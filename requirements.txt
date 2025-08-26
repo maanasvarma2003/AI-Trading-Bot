@@ -1,0 +1,16 @@
+pandas
+numpy
+yfinance
+ta
+scikit-learn
+xgboost
+Flask
+kiteconnect
+# Additional libraries for DRL (e.g., stable-baselines3, tensorflow/pytorch, gym)
+# stable-baselines3
+# tensorflow # or pytorch
+# gym
+# Additional libraries for real-time API (e.g., kiteconnect)
+# kiteconnect
+# Additional libraries for monitoring/logging
+#  (e.g., matplotlib for visualization, logging, prometheus_client for metrics)
